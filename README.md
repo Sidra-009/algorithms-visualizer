@@ -30,4 +30,4 @@ This project is a **Data Structures and Algorithms Visualizer** built using **Ja
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dsa-visualizer-java.git
+   git clone https://github.com/Sidra-009/dsa-visualizer-java.git
